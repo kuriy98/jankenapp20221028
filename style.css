@@ -1,0 +1,20 @@
+/* All */
+
+.text{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* header */
+.janken{
+    text-align: center;
+}
+
+/* main */
+
+.start{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
